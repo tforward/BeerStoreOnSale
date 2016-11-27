@@ -1,0 +1,29 @@
+@-moz-document url-prefix() {
+    fieldset {
+        display: table-cell;
+    }
+    
+}
+
+.myjumbotron {
+    background-color: #717073;
+    padding: 5px;
+    color: #FFFFFF;
+}
+
+.myjumbotron a{
+    color: #FFFFFF;
+}
+
+.myjumbotron small{
+    color: #FFFFFF;
+}
+
+.myjumbotron input{
+    color: BLACK;
+
+
+
+
+
+
